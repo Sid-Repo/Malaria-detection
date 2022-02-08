@@ -2,9 +2,10 @@
 
 Project for detecting if a cell is healthy or infected with malaria.
 
+Data was augmented for training, and a CNN model was implemented to classify between healthy and infected cells.
+
 Dataset source: https://data.lhncbc.nlm.nih.gov/public/Malaria/cell_images.zip
 
-Data was augmented for training and a CNN model was implemented to classify between healthy and infected cells.
 
 # Library versions
 
