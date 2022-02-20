@@ -1,4 +1,4 @@
-# Malaria-detection
+# Malaria Detection
 
 Project for detecting if a cell is healthy or infected with malaria.
 
